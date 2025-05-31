@@ -8,7 +8,7 @@
 *.so
 *.dylib
 main
-Timefly-CLI
+Timefly-amd64
 
 # Test binary, built with `go test -c`
 *.test
